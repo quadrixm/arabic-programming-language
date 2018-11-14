@@ -17,3 +17,6 @@ Mujeed (مُجيد) is a development environment for logic programming in Arabic
 
 ## نور [Noor-lang](https://github.com/SimplyAhmazing/noor)
 Noor is a simple, yet aHmazing arabic programming language. It it is currently in development mode and is being further defined and refined. It is implemented in Javascript.
+
+## ي [Ya - Programming Language](https://github.com/yalang/ya)
+Ya (ي) programming language is an open source programming language where you can write python code in arabic language.
