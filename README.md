@@ -1,6 +1,6 @@
 # Arabic Programming Language ( لغة برمجة عربية )
 
-## ألف [The Alif Arabic Programming Language - لغة البرمجة العربية ألف ](https://github.com/hassandraga/alif)
+## ألف [The Alif Arabic Programming Language - لغة البرمجة العربية ألف ](https://github.com/alifcommunity)
 It is a programming language that aims to provide Arabic-speaking students with an easy platform to learn the basics of programming in Arabic.
 
 ## خوارزمي [Khawarizmi - An Arabic Programming Language](https://github.com/bachirbenyammi/khawarizmi)
